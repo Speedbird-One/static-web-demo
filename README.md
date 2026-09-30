@@ -4,6 +4,12 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D20.0.0-339933?logo=node.js)
 
+**Name:** Tanmay T A
+
+**SRN:** PES1UG24CS492
+
+**Section:** I
+
 A beginner-friendly demonstration of a **Continuous Integration (CI)** and **Continuous Deployment (CD)** pipeline built with standard web technologies and **GitHub Actions**.
 
 Whenever changes are pushed to the `main` branch, GitHub Actions automatically executes automated static checks. If all tests pass, the site is deployed directly to **GitHub Pages**.
